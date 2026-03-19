@@ -28,7 +28,7 @@ function App() {
             alt="Inspector" 
             className="w-14 h-14"
           />
-          <h1 className="text-4xl md:text-5xl font-bold tracking-tight">
+          <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-red-500">
             Inspector Bun Template
           </h1>
         </div>
