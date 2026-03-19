@@ -21,14 +21,14 @@ function App() {
       </button>
 
       {/* Centered Content */}
-      <div className="text-center space-y-4">
+      <div className="text-center space-y-4" style={{ marginLeft: 48, marginTop: 37 }}>
         <div className="flex items-center justify-center gap-3">
           <img 
             src={InspectorLogo} 
             alt="Inspector" 
             className="w-14 h-14"
           />
-          <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-blue-500">
+          <h1 className="text-4xl md:text-5xl font-bold tracking-tight" style={{ color: "currentcolor" }}>
             Inspector Bun Template
           </h1>
         </div>
