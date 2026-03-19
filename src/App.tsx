@@ -32,7 +32,7 @@ function App() {
             Inspector Bun Template
           </h1>
         </div>
-        <p className="text-lg text-muted-foreground w-full mt-2">
+        <p className="text-lg text-muted-foreground w-full mt-8">
           React + Vite + Tailwind + shadcn/ui with Bun (packageManager field)
         </p>
       </div>
